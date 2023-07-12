@@ -1,0 +1,172 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.manu {
+display: flex;
+text-align: center;
+
+
+
+}
+.manu li{
+list-style-type: none;
+
+
+}
+
+.manu li a{
+text-decoration: none;
+color: rgb(214, 209, 209);
+font-size: 12ox;
+
+
+
+
+}
+.manu li a:hover{
+color: black;
+
+
+}
+.headd{
+ padding: 6px 80px;
+display: flex;
+align-items: center;
+gap: 0px 10px;
+ background-color: #faf9fa;
+
+}
+
+.logo{
+width: 80px;
+
+
+}
+
+.banner{
+display: flex;
+margin: 0px 80px;
+padding:0px 20px;
+align-items: center;
+background-color: #FFECF0;
+
+}
+.banner-image{
+width: 250px;
+
+
+}
+.text{
+width: 50%;
+
+
+}
+.image{
+height: 50%;
+
+}
+.title{
+font-size: 12px;
+margin: 5px 0px;
+
+
+}
+.price{
+color: orange;
+
+}
+.buy{
+background-color: #FF4A92;
+border: none;
+color: white;
+padding: 5px 10px;
+font-size: 9px;
+border-radius: 3px;
+
+}
+.shoe{
+padding: 0px 80px;
+
+
+}
+.product{
+width: 200px;
+
+
+}
+.sell{
+padding: 0px 80px;
+padding: 10px;
+box-shadow: 0px 0px 10px lightgray;
+border-radius: 2px;
+
+}
+.shoe2{
+width: 200px;
+
+
+}
+.nike{
+padding: 0px 80px;
+display: flex;
+gap: 0px 15px;
+
+
+
+}
+.airmax{
+padding: 0px 80px;
+
+
+}
+.shoc3{
+width: 200px;
+
+
+}
+.letstay{
+height: 300px;
+background-color: #ff4a9260;
+height: auto;
+width: auto;
+margin: auto;
+
+}
+
+.sub{
+background-color:  #FF4A92;
+
+
+
+}
+.let{
+    margin: auto;
+    text-align: center;
+    /* display: contents; */
+background-color: rgba(255, 192, 203, 0.632);
+
+height: 200px;
+width: 600px;
+/* display: inline; */
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
